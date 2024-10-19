@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I’m koldoest26 🙋🏻‍♂️ </h1>
+<h1 align="center"> Heey, I’m koldoest26 🏒 </h1>
 
 ## ▪️ I'm Cybersecurity Engineering Student at URJC and Cursus Student at 42Madrid 👨🏻‍💻📚 
 
@@ -6,15 +6,11 @@
 
 ## ▪️ Github stats 📊
 
-![gemartin GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koldoest26&layout=compact&theme=cobalt)
-
+![koldoest26 GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
 
 ## ▪️ Contact me 📥
 
-Email: luestira@student.42madrid.com // l.estirado.2024@alumnos.urjc.es
+Email: luestira@student.42madrid.com
 
 <a href='mailto:luestira@student.42madrid.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
-<a href='mailto:l.estirado.2024@alumnos.urjc.es' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
