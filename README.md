@@ -10,7 +10,7 @@
 
 ## ▪️ 42 Cursus 💻
 
-| Project | Score |
+| 📃 Project | ✅❌ Score |
 |---|---|
 <a href="https://github.com/koldoest26/42_Libft">libft</a> | 100/100
 <a href="https://github.com/koldoest26/42_Born2BeRoot/">Born2BeRoot</a> | In progress 
