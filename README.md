@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m koldoest26 🙋🏻‍♂️ </h1>
 
-## ▪️ I'm Cybersecurity Engineering at URJC and Cursus Student at 42Madrid 👨🏻‍💻📚 
+## ▪️ I'm Cybersecurity Engineering Student at URJC and Cursus Student at 42Madrid 👨🏻‍💻📚 
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/luestira?1337Badge=off&UM6P=off" alt="luestira's 42 stats" /></a>
 
