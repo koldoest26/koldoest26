@@ -8,7 +8,7 @@
 
 ![koldoest26 GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
 
-![](https://raw.githubusercontent.com/koldoest26/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![koldoest GIthub Stats2](https://raw.githubusercontent.com/koldoest26/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 ## ▪️ Contact me 📥
