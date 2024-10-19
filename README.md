@@ -8,6 +8,14 @@
 
 ![koldoest26 GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
 
+## ▪️ 42 Cursus 💻
+
+| Project | Score |
+|---|---|
+<a href="https://github.com/koldoest26/42_Libft">libft</a> | 100/100
+<a href="https://github.com/koldoest26/42_Born2BeRoot/">Born2BeRoot</a> | In progress 
+
+
 ## ▪️ Contact me 📥
 
 Email: luestira@student.42madrid.com
