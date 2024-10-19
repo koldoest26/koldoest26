@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center"> Hi, I’m koldoest26 🙋🏻‍♂️ </h1>
 
-<!--
-**koldoest26/koldoest26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ▪️ I'm Cybersecurity Engineering at URJC and Cursus Student at 42Madrid 👨🏻‍💻📚 
 
-Here are some ideas to get you started:
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/luestira?1337Badge=off&UM6P=off" alt="luestira's 42 stats" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ▪️ Github stats 📊
+
+![gemartin GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koldoest26&layout=compact&theme=cobalt)
+
+
+## ▪️ Contact me 📥
+
+Email: luestira@student.42madrid.com
+
+<a href='mailto:luestira@student.42madrid.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+</a>
