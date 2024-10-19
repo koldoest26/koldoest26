@@ -13,7 +13,8 @@
 
 ## ▪️ Contact me 📥
 
-Email: luestira@student.42madrid.com
+Email: luestira@student.42madrid.com // l.estirado.2024@alumnos.urjc.es
 
 <a href='mailto:luestira@student.42madrid.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+<a href='mailto:l.estirado.2024@alumnos.urjc.es' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
