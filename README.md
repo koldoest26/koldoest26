@@ -4,7 +4,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/luestira?1337Badge=off&UM6P=off" alt="luestira's 42 stats" /></a>
 
-## ▪👉 Github stats 📊
+## 👉 Github stats 📊
 
 ![koldoest26 GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
 
