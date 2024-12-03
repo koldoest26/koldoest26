@@ -12,10 +12,10 @@
 
 | 📃 Project | ✅❌ Score |
 |---|---|
-<a href="https://github.com/koldoest26/42_Libft">libft</a> | 100/100
-<a href="https://github.com/koldoest26/42_Born2BeRoot/">Born2BeRoot</a> | In progress 
-<a href="https://github.com/koldoest26/42_ft_printft">ft_printf</a> | 100/100
-<a href="https://github.com/koldoest26/42_Get_Next_Line">ft_printf</a> | 100/100
+<a href="https://github.com/koldoest26/42_Libft">libft</a> | 100/100 ✅
+<a href="https://github.com/koldoest26/42_Born2BeRoot/">Born2BeRoot</a> | In progress 💻
+<a href="https://github.com/koldoest26/42_ft_printft">ft_printf</a> | 100/100 ✅
+<a href="https://github.com/koldoest26/42_Get_Next_Line">Get Next Line</a> | In progress 💻
 
 
 ## 👉 Contact me 📥
