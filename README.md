@@ -17,6 +17,7 @@
 <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png"/> | <a href="https://github.com/koldoest26/42_ft_printft">ft_printf</a> | 100/100 ✅
 <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linem.png"/> | <a href="https://github.com/koldoest26/42_Get_Next_Line">Get Next Line</a> | 125/100 ✅
 <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/push_swape.png"/> | push_swap | In progress 💻
+<img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minitalke.png"/> | <a href="https://github.com/koldoest26/42_Minitalk">Minitalk</a> | In progress 💻
 
 
 
