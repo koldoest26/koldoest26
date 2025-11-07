@@ -8,8 +8,9 @@
 
 ![koldoest26 GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
 
-## 👉 42 Cursus 💻 (Initial start: September 2024)
-## Common Core restarted : September 2025
+## 👉 42 Cursus 💻 
+Initial kick-off: September 2024.
+Common Core restarted : September 2025
 
 
 | 42 | 📃 2024 Project | ✅❌ 2024 Score | 📃 2025 Project | ✅❌ 2025 Score 
