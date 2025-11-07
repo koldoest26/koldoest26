@@ -8,9 +8,11 @@
 
 ![koldoest26 GitHub stats](https://github-readme-stats.vercel.app/api?username=koldoest26&show_icons=true&theme=cobalt)
 
-## 👉 42 Cursus 💻
+## 👉 42 Cursus 💻 (Initial start: September 2024)
+## Common Core restarted : September 2025
 
-| 42 | 📃 Project | ✅❌ Score | 📃 2025 Project | ✅❌ 2025 Score 
+
+| 42 | 📃 2024 Project | ✅❌ 2024 Score | 📃 2025 Project | ✅❌ 2025 Score 
 |---|---|---|---|---|
 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libfte.png?raw=true"/> | <a href="https://github.com/koldoest26/42_Libft">libft</a> | 100/100 ✅ | <a href="https://github.com/koldoest26/42_Libft_2025">libft</a> | 125/100 ✅
 <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/born2berootm.png"/> | <a href="https://github.com/koldoest26/42_Born2BeRoot/">Born2BeRoot</a> | 115/100 ✅
