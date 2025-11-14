@@ -31,5 +31,5 @@ Common Core restarted : September 2025
 
 ## 👉 Contact me 📥
 
-Email: luestira@student.42madrid.com
+Email: luestira@student.42madrid.com / luisesti@student.42madrid.com
 </a>
