@@ -1,4 +1,4 @@
-<h1 align="center"> Heey, I’m @koldoest26 🏒 </h1>
+<h1 align="center"> Heey, I’m koldoest26 🏒 </h1>
 
 ## 👉 I'm Cybersecurity Engineering Student at URJC and Cursus Student at 42Madrid 👨🏻‍💻📚 
 
