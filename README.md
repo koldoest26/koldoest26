@@ -27,7 +27,7 @@ Common Core restarted : September 2025
 <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/so_longe.png"/> | <a href="https://github.com/koldoest26/42_So-Long">So_Long</a>| 100/100 ✅ | Not available in 2025 CC| ❌ Forbidden
 <b> Exam Rank 02 | Exam Rank 02| 75/100 ❌
 <b> Python Module 00 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-00">Python Module 00</a> | 100/100 ✅
-<b> Python Module 00 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-01">Python Module 00</a> | In Progress 📃
+<b> Python Module 01 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-01">Python Module 01</a> | In Progress 📃
 
 
 
