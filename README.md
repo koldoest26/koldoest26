@@ -29,7 +29,15 @@ Common Core restarted : September 2025
 <b> Python Module 00 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-00">Python Module 00</a> | 100/100 ✅
 <b> Python Module 01 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-01">Python Module 01</a> | 100/100 ✅
 <b> Python Module 02 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-02">Python Module 02</a> | 100/100 ✅
-<b> Python Module 03 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-03">Python Module 03</a> | In Progress 📃
+<b> Python Module 03 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-03">Python Module 03</a> | Finished 📃
+<b> Python Module 04 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-04">Python Module 04</a> | Finished 📃
+<b> Python Module 05 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-05">Python Module 05</a> | In Progress 📃
+<b> Python Module 06 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-06">Python Module 06</a> | Recomended 📃
+<b> Python Module 07 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-07">Python Module 07</a> | Recomended 📃
+<b> Python Module 08 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-08">Python Module 08</a> | Recomended 📃
+<b> Python Module 09 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-09">Python Module 09</a> | Recomended 📃
+<b> Python Module 10 | Not Available | Not Available | <a href="https://github.com/koldoest26/42_Python-Module-10">Python Module 10</a> | Recomended 📃
+
 
 
 
